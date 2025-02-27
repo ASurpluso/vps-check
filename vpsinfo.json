@@ -1,1 +1,26 @@
-
+[
+  {
+    "ip": "45.62.127.6",
+    "startday": "2024-12-30",
+    "endday": "2024-12-29",
+    "price": "34.50USD",
+    "store": "BWH",
+    "storeURL": "https://bandwagonhost.com/"
+  },
+  {
+    "ip": "45.62.116.227",
+    "startday": "2024-11-27",
+    "endday": "2025-11-26",
+    "price": "34.50USD",
+    "store": "BWH-Su",
+    "storeURL": "https://bandwagonhost.com/"
+  },
+  {
+    "ip": "40.85.148.125",
+    "startday": "2024-11-09",
+    "endday": "2025-11-08",
+    "price": "0.00USD",
+    "store": "Azure",
+    "storeURL": "https://portal.azure.com/#home"
+  }
+]

@@ -38,6 +38,22 @@
     "price": "10.00CNY",
     "store": "56IDC/NL",
     "storeURL": "https://56idc.net/"
+  },
+  {
+    "ip": "5.59.248.83",
+    "startday": "2024-10-02 ",
+    "endday": "2028-10-02",
+    "price": "43.20CNY",
+    "store": "pasyun",
+    "storeURL": "https://cloud.pasyun.com/"
+  },
+  {
+    "ip": "79.99.78.99",
+    "startday": "2025-02-12  ",
+    "endday": "2026-02-12 ",
+    "price": "2.14USD",
+    "store": "bytevirt-us",
+    "storeURL": "https://bytevirt.com"
   }
 ]
 

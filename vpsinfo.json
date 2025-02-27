@@ -24,11 +24,12 @@
     "storeURL": "https://portal.azure.com/#home"
   },
   {
-    "ip": "40.85.148.125",
-    "startday": "2024-11-09",
-    "endday": "2025-11-08",
-    "price": "0.00USD",
-    "store": "Azure",
-    "storeURL": "https://portal.azure.com/#home"
+    "ip": "103.195.189.214",
+    "startday": "2024-12-25",
+    "endday": "2025-12-25",
+    "price": "20.00CNY",
+    "store": "56IDC/SG",
+    "storeURL": "https://56idc.net/"
   }
 ]
+

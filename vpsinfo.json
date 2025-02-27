@@ -22,5 +22,13 @@
     "price": "0.00USD",
     "store": "Azure",
     "storeURL": "https://portal.azure.com/#home"
-  }
+  },
+  {
+    "ip": "2001:470:36:62:ad09:e169:fa84:1",
+    "startday": "2024-12-25",
+    "endday": "2025-12-24",
+    "price": "20.00CNY",
+    "store": "56IDC/SG",
+    "storeURL": "https://56idc.net/"
+  },
 ]

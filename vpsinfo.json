@@ -54,6 +54,13 @@
     "price": "2.14USD",
     "store": "bytevirt-us",
     "storeURL": "https://bytevirt.com"
+  },
+  {
+    "ip": "52.195.47.67",
+    "startday": "2025-03-04  ",
+    "endday": "2025-06-04 ",
+    "price": "Free",
+    "store": "aws",
+    "storeURL": "https://lightsail.aws.amazon.com/"
   }
 ]
-

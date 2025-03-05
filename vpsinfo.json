@@ -58,9 +58,17 @@
   {
     "ip": "52.195.47.67",
     "startday": "2025-03-04  ",
-    "endday": "2025-06-04 ",
+    "endday": "2025-06-02 ",
     "price": "0.00USD",
-    "store": "aws-jp",
+    "store": "aws-Tokyo",
+    "storeURL": "https://lightsail.aws.amazon.com/"
+  },
+  {
+    "ip": "13.228.219.204",
+    "startday": "2025-03-05  ",
+    "endday": "2026-06-03 ",
+    "price": "0.00USD",
+    "store": "aws-SG",
     "storeURL": "https://lightsail.aws.amazon.com/"
   }
 ]

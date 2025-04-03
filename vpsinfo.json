@@ -86,5 +86,13 @@
     "price": "0.00USD",
     "store": "aws🚀Seoul",
     "storeURL": "https://lightsail.aws.amazon.com/"
+  },
+  {
+    "ip": "3.39.229.80",
+    "startday": "2025-03-27  ",
+    "endday": "2025-06-25 ",
+    "price": "0.00USD",
+    "store": "aws🚀Seoul-lightsail",
+    "storeURL": "https://lightsail.aws.amazon.com/"
   }
 ]

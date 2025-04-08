@@ -82,7 +82,7 @@
   {
     "ip": "3.35.21.109",
     "startday": "2025-03-27  ",
-    "endday": "2026-02-27 ",
+    "endday": "2026-03-26 ",
     "price": "0.00USD",
     "store": "aws🚀Seoul",
     "storeURL": "https://ap-southeast-2.console.aws.amazon.com/"
@@ -90,7 +90,7 @@
   {
     "ip": "3.37.82.172",
     "startday": "2025-03-27  ",
-    "endday": "2025-05-31 ",
+    "endday": "2025-06-26 ",
     "price": "0.00USD",
     "store": "aws🚀Seoul-lightsail",
     "storeURL": "https://lightsail.aws.amazon.com/"
@@ -98,7 +98,7 @@
   {
     "ip": "3.107.102.1",
     "startday": "2025-04-08  ",
-    "endday": "2026-03-31 ",
+    "endday": "2026-04-07 ",
     "price": "0.00USD",
     "store": "aws🚀sydney",
     "storeURL": "https://ap-southeast-2.console.aws.amazon.com/"

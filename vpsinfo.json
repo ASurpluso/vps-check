@@ -102,5 +102,13 @@
     "price": "0.00USD",
     "store": "aws🚀sydney",
     "storeURL": "https://ap-southeast-2.console.aws.amazon.com/"
+  },
+  {
+    "ip": "18.167.36.49",
+    "startday": "2025-04-09  ",
+    "endday": "2026-04-08 ",
+    "price": "0.00USD",
+    "store": "aws🚀HK",
+    "storeURL": "https://ap-southeast-2.console.aws.amazon.com/"
   }
 ]

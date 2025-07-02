@@ -64,19 +64,19 @@
     "storeURL": "https://bytevirt.com"
   },
   {
-    "ip": "54.250.46.102",
-    "startday": "2025-03-04  ",
-    "endday": "2026-03-03 ",
-    "price": "0.00USD",
-    "store": "aws🚀Tokyo",
-    "storeURL": "https://lightsail.aws.amazon.com/"
-  },
-  {
     "ip": "13.228.219.204",
     "startday": "2025-06-12  ",
     "endday": "2025-09-11 ",
     "price": "0.00USD",
     "store": "aws🚀SG🚀Lightsail",
+    "storeURL": "https://lightsail.aws.amazon.com/"
+  },
+  {
+    "ip": "54.250.46.102",
+    "startday": "2025-03-04  ",
+    "endday": "2026-03-03 ",
+    "price": "0.00USD",
+    "store": "aws🚀Tokyo",
     "storeURL": "https://lightsail.aws.amazon.com/"
   },
   {
@@ -86,14 +86,6 @@
     "price": "0.00USD",
     "store": "aws🚀Seoul",
     "storeURL": "https://ap-southeast-2.console.aws.amazon.com/"
-  },
-  {
-    "ip": "3.37.82.172",
-    "startday": "2025-03-27  ",
-    "endday": "2025-06-26 ",
-    "price": "0.00USD",
-    "store": "aws🚀Seoul-lightsail",
-    "storeURL": "https://lightsail.aws.amazon.com/"
   },
   {
     "ip": "3.107.102.1",
@@ -110,6 +102,22 @@
     "price": "0.00USD",
     "store": "aws🚀HK",
     "storeURL": "https://ap-southeast-2.console.aws.amazon.com/"
+  },
+  {
+    "ip": "43.216.11.54",
+    "startday": "2025-04-11  ",
+    "endday": "2026-04-10 ",
+    "price": "0.00USD",
+    "store": "aws🚀Malaysia",
+    "storeURL": "https://lightsail.aws.amazon.com/"
+  },
+  {
+    "ip": "13.40.200.23",
+    "startday": "2025-06-26  ",
+    "endday": "2026-06-25 ",
+    "price": "0.00USD",
+    "store": "aws🚀London",
+    "storeURL": "https://lightsail.aws.amazon.com/"
   },
   {
     "ip": "34.97.243.105",

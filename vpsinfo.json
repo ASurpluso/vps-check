@@ -73,10 +73,10 @@
   },
   {
     "ip": "13.228.219.204",
-    "startday": "2025-03-05  ",
-    "endday": "2025-05-31 ",
+    "startday": "2025-06-12  ",
+    "endday": "2025-09-11 ",
     "price": "0.00USD",
-    "store": "aws🚀SG",
+    "store": "aws🚀SG🚀Lightsail",
     "storeURL": "https://lightsail.aws.amazon.com/"
   },
   {
@@ -112,11 +112,11 @@
     "storeURL": "https://ap-southeast-2.console.aws.amazon.com/"
   },
   {
-    "ip": "35.206.252.27",
+    "ip": "34.97.243.105",
     "startday": "2025-04-12  ",
     "endday": "2025-07-10 ",
     "price": "0.00USD",
-    "store": "gcp🚀TW",
+    "store": "GCP🚀OSAKA",
     "storeURL": "https://cloud.google.com/?hl=zh_cn"
   }
 ]
